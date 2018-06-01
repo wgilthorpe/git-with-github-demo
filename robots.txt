@@ -4,5 +4,7 @@ User-agent: *
 Disallow:
 # clear comments for demo
 # This line has been added to demo git pull command
+# This line has been added to demo the git push command.
+# this will allow me to push my changes to the master branch.
 
 # some line
